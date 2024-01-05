@@ -1,0 +1,93 @@
+[
+  {
+    "Id": 1,
+    "Name": "Mohamed",
+    "Email": "mohamedhasen227@gmail.com",
+    "Phone": 1212469681,
+    "Address": "alex",
+    "Age": 25,
+    "UserName": "mohamedhasen227",
+    "Password": "123",
+    "Rule": "student",
+    "Path": "Student.json",
+    "Logged": false
+  },
+  {
+    "Id": 2,
+    "Name": "mo",
+    "Email": "sad",
+    "Phone": 2332,
+    "Address": "asd",
+    "Age": 123,
+    "UserName": "as",
+    "Password": "asd",
+    "Rule": "student",
+    "Path": "Student.json",
+    "Logged": false
+  },
+  {
+    "Id": 3,
+    "Name": "fasd",
+    "Email": "dsf",
+    "Phone": 123,
+    "Address": "sdf",
+    "Age": 123,
+    "UserName": "sdf",
+    "Password": "sdf",
+    "Rule": "student",
+    "Path": "Student.json",
+    "Logged": false
+  },
+  {
+    "Id": 2313,
+    "Name": "moa",
+    "Email": "asd",
+    "Phone": 123,
+    "Address": "asd",
+    "Age": 123,
+    "UserName": "asd",
+    "Password": "asd",
+    "Rule": "student",
+    "Path": "Student.json",
+    "Logged": false
+  },
+  {
+    "Id": 5,
+    "Name": "ewq",
+    "Email": "rew",
+    "Phone": 123,
+    "Address": "wer",
+    "Age": 123,
+    "UserName": "wer",
+    "Password": "wer",
+    "Rule": "student",
+    "Path": "Student.json",
+    "Logged": false
+  },
+  {
+    "Id": 6,
+    "Name": "wqe",
+    "Email": "sa",
+    "Phone": 23,
+    "Address": "asd",
+    "Age": 23,
+    "UserName": "asd",
+    "Password": "asd",
+    "Rule": "student",
+    "Path": "Student.json",
+    "Logged": false
+  },
+  {
+    "Id": 100,
+    "Name": "omar",
+    "Email": "omar@gmail.com",
+    "Phone": 113322,
+    "Address": "alex",
+    "Age": 24,
+    "UserName": "omaro",
+    "Password": "123",
+    "Rule": "student",
+    "Path": "Student.json",
+    "Logged": false
+  }
+]

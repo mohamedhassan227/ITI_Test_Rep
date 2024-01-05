@@ -1,0 +1,26 @@
+[
+  {
+    "Id": 4654,
+    "Name": "omnia",
+    "Email": "onjk@",
+    "Phone": 1465,
+    "Address": "bgh",
+    "Age": 24,
+    "UserName": null,
+    "Password": null,
+    "Rule": "student",
+    "Path": "Student.json"
+  },
+  {
+    "Id": 1,
+    "Name": "mohamed",
+    "Email": "mohamed",
+    "Phone": 223123,
+    "Address": "alex",
+    "Age": 25,
+    "UserName": "mohamed",
+    "Password": "mmsksk",
+    "Rule": "student",
+    "Path": "Student.json"
+  }
+]
